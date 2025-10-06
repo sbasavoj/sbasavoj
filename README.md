@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Srividya B**
+# 👋 Hi there, I'm **Srividya**
 
 💻 **Mainframe Developer | DevOps Enthusiast | Python Learner**  
 📍 Based in *Dallas, Texas*  
